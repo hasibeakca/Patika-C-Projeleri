@@ -1,0 +1,14 @@
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\bin\Debug\net8.0\Fibonacci-Ortalama Hesaplama.exe
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\bin\Debug\net8.0\Fibonacci-Ortalama Hesaplama.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\bin\Debug\net8.0\Fibonacci-Ortalama Hesaplama.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\bin\Debug\net8.0\Fibonacci-Ortalama Hesaplama.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\bin\Debug\net8.0\Fibonacci-Ortalama Hesaplama.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\Fibonacci-Ortalama Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\Fibonacci-Ortalama Hesaplama.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\Fibonacci-Ortalama Hesaplama.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\Fibonacci-Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\Fibonacci-Ortalama Hesaplama.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\refint\Fibonacci-Ortalama Hesaplama.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\Fibonacci-Ortalama Hesaplama.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\Fibonacci-Ortalama Hesaplama.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Fibonacci-Ortalama Hesaplama\obj\Debug\net8.0\ref\Fibonacci-Ortalama Hesaplama.dll
