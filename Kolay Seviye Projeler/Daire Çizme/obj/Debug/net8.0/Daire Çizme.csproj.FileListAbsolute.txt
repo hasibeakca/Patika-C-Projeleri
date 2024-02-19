@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net8.0\Daire Çizme.exe
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net8.0\Daire Çizme.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net8.0\Daire Çizme.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net8.0\Daire Çizme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\bin\Debug\net8.0\Daire Çizme.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\Daire Çizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\Daire Çizme.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\Daire Çizme.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\Daire Çizme.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\Daire Çizme.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\Daire Çizme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\refint\Daire Çizme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\Daire Çizme.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\Daire Çizme.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Daire Çizme\obj\Debug\net8.0\ref\Daire Çizme.dll
