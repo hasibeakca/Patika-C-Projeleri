@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net8.0\Üçgen Çizme.exe
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net8.0\Üçgen Çizme.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net8.0\Üçgen Çizme.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net8.0\Üçgen Çizme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\bin\Debug\net8.0\Üçgen Çizme.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\Üçgen Çizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\Üçgen Çizme.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\Üçgen Çizme.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\Üçgen Çizme.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\Üçgen Çizme.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\Üçgen Çizme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\refint\Üçgen Çizme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\Üçgen Çizme.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\Üçgen Çizme.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Üçgen Çizme\obj\Debug\net8.0\ref\Üçgen Çizme.dll
