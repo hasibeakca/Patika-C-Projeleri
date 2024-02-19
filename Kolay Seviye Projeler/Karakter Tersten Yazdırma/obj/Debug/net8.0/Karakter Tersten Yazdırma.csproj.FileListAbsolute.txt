@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net8.0\Karakter Tersten Yazdırma.exe
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net8.0\Karakter Tersten Yazdırma.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net8.0\Karakter Tersten Yazdırma.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net8.0\Karakter Tersten Yazdırma.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\bin\Debug\net8.0\Karakter Tersten Yazdırma.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\Karakter Tersten Yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\Karakter Tersten Yazdırma.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\Karakter Tersten Yazdırma.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\Karakter Tersten Yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\Karakter Tersten Yazdırma.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\Karakter Tersten Yazdırma.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\refint\Karakter Tersten Yazdırma.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\Karakter Tersten Yazdırma.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\Karakter Tersten Yazdırma.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Kolay Seviye Projeler\Karakter Tersten Yazdırma\obj\Debug\net8.0\ref\Karakter Tersten Yazdırma.dll
