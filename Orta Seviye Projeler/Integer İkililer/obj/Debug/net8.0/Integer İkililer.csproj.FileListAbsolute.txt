@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\bin\Debug\net8.0\Integer İkililer.exe
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\bin\Debug\net8.0\Integer İkililer.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\bin\Debug\net8.0\Integer İkililer.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\bin\Debug\net8.0\Integer İkililer.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\bin\Debug\net8.0\Integer İkililer.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\Integer İkililer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\Integer İkililer.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\Integer İkililer.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\Integer İkililer.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\Integer İkililer.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\Integer İkililer.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\refint\Integer İkililer.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\Integer İkililer.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\Integer İkililer.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Integer İkililer\obj\Debug\net8.0\ref\Integer İkililer.dll
