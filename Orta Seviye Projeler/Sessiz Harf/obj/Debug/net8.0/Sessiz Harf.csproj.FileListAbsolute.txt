@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net8.0\Sessiz Harf.exe
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net8.0\Sessiz Harf.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net8.0\Sessiz Harf.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net8.0\Sessiz Harf.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\bin\Debug\net8.0\Sessiz Harf.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\Sessiz Harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\Sessiz Harf.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\Sessiz Harf.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\Sessiz Harf.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\Sessiz Harf.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\Sessiz Harf.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\refint\Sessiz Harf.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\Sessiz Harf.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\Sessiz Harf.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Sessiz Harf\obj\Debug\net8.0\ref\Sessiz Harf.dll
