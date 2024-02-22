@@ -1,0 +1,15 @@
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\bin\Debug\net8.0\Karakter Degistirme.exe
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\bin\Debug\net8.0\Karakter Degistirme.deps.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\bin\Debug\net8.0\Karakter Degistirme.runtimeconfig.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\bin\Debug\net8.0\Karakter Degistirme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\bin\Debug\net8.0\Karakter Degistirme.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\Karakter Degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\Karakter Degistirme.AssemblyInfoInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\Karakter Degistirme.AssemblyInfo.cs
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\Karakter Degistirme.csproj.CoreCompileInputs.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\Karakter Degistirme.sourcelink.json
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\Karakter Degistirme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\refint\Karakter Degistirme.dll
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\Karakter Degistirme.pdb
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\Karakter Degistirme.genruntimeconfig.cache
+C:\Users\hasib\OneDrive\Masaüstü\C# Projeleri\Orta Seviye Projeler\Karakter Degistirme\obj\Debug\net8.0\ref\Karakter Degistirme.dll
